@@ -5,4 +5,6 @@ class test {
     // ===> secnod
     // another==>
 
+    // test issue 1
+
 }
