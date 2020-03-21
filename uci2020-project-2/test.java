@@ -1,1 +1,5 @@
-aaaaaaaaaaaaaaaaaaaaaa
+
+
+class test {
+    
+}
