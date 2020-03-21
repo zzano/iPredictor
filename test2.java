@@ -1,4 +1,4 @@
 class test2 {
     // just for branch
-    // ==> issue1
+    // ==> issue2
 }
